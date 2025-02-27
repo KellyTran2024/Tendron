@@ -40,7 +40,7 @@ strokeWeight(2);
       startY = endY;
     }
 
-  if (myNumSegments > 2) { 
+  if (myNumSegments > 3) { 
       Cluster c = new Cluster(myNumSegments/2, (int) startX,(int) startY);
   
       
